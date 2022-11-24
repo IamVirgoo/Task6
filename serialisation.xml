@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<STATES>
+	<STATE>
+		<TERRITORIES>
+			<SIZE>1000</SIZE>
+		</TERRITORIES>
+		<WORKERS>
+			<PEOPLE>
+				<NAME>Billy Bonce</NAME>
+				<AGE>48</AGE>
+			</PEOPLE>
+			<PEOPLE>
+				<NAME>Dr. Livsi</NAME>
+				<AGE>42</AGE>
+			</PEOPLE>
+			<PEOPLE>
+				<NAME>Jimmy</NAME>
+				<AGE>22</AGE>
+			</PEOPLE>
+			<WORKERS>
+				<WORKER>
+					<PEOPLE>
+						<NAME>Billy Bonce</NAME>
+						<AGE>48</AGE>
+					</PEOPLE>
+					<STANDING>2.120000</STANDING>
+					<SALARY>30000.000000</SALARY>
+				</WORKER>
+				<WORKER>
+					<PEOPLE>
+						<NAME>Dr. Livsi</NAME>
+						<AGE>42</AGE>
+					</PEOPLE>
+					<STANDING>2.340000</STANDING>
+					<SALARY>40000.000000</SALARY>
+				</WORKER>
+				<WORKER>
+					<PEOPLE>
+						<NAME>Jimmy</NAME>
+						<AGE>22</AGE>
+					</PEOPLE>
+					<STANDING>1.200000</STANDING>
+					<SALARY>100000.000000</SALARY>
+				</WORKER>
+			</WORKERS>
+		</WORKERS>
+	</STATE>
+	<STATE>
+		<TERRITORIES>
+			<SIZE>1000</SIZE>
+		</TERRITORIES>
+		<WORKERS>
+			<PEOPLE>
+				<NAME>Billy Bonce</NAME>
+				<AGE>48</AGE>
+			</PEOPLE>
+			<PEOPLE>
+				<NAME>Dr. Livsi</NAME>
+				<AGE>42</AGE>
+			</PEOPLE>
+			<PEOPLE>
+				<NAME>Jimmy</NAME>
+				<AGE>22</AGE>
+			</PEOPLE>
+			<WORKERS>
+				<WORKER>
+					<PEOPLE>
+						<NAME>Billy Bonce</NAME>
+						<AGE>48</AGE>
+					</PEOPLE>
+					<STANDING>2.120000</STANDING>
+					<SALARY>30000.000000</SALARY>
+				</WORKER>
+				<WORKER>
+					<PEOPLE>
+						<NAME>Dr. Livsi</NAME>
+						<AGE>42</AGE>
+					</PEOPLE>
+					<STANDING>2.340000</STANDING>
+					<SALARY>40000.000000</SALARY>
+				</WORKER>
+				<WORKER>
+					<PEOPLE>
+						<NAME>Jimmy</NAME>
+						<AGE>22</AGE>
+					</PEOPLE>
+					<STANDING>1.200000</STANDING>
+					<SALARY>100000.000000</SALARY>
+				</WORKER>
+			</WORKERS>
+		</WORKERS>
+	</STATE>
+	<STATE>
+		<TERRITORIES>
+			<SIZE>1000</SIZE>
+		</TERRITORIES>
+		<WORKERS>
+			<PEOPLE>
+				<NAME>Billy Bonce</NAME>
+				<AGE>48</AGE>
+			</PEOPLE>
+			<PEOPLE>
+				<NAME>Dr. Livsi</NAME>
+				<AGE>42</AGE>
+			</PEOPLE>
+			<PEOPLE>
+				<NAME>Jimmy</NAME>
+				<AGE>22</AGE>
+			</PEOPLE>
+			<WORKERS>
+				<WORKER>
+					<PEOPLE>
+						<NAME>Billy Bonce</NAME>
+						<AGE>48</AGE>
+					</PEOPLE>
+					<STANDING>2.120000</STANDING>
+					<SALARY>30000.000000</SALARY>
+				</WORKER>
+				<WORKER>
+					<PEOPLE>
+						<NAME>Dr. Livsi</NAME>
+						<AGE>42</AGE>
+					</PEOPLE>
+					<STANDING>2.340000</STANDING>
+					<SALARY>40000.000000</SALARY>
+				</WORKER>
+				<WORKER>
+					<PEOPLE>
+						<NAME>Jimmy</NAME>
+						<AGE>22</AGE>
+					</PEOPLE>
+					<STANDING>1.200000</STANDING>
+					<SALARY>100000.000000</SALARY>
+				</WORKER>
+			</WORKERS>
+		</WORKERS>
+	</STATE>
+</STATES>
